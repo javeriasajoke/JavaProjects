@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47d23251-8e38-4187-a592-a095e62170ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Day1/1-MoneyManagement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/10-Permutaion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/2-HumanResourceMangement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/3-NumbersToWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/4-FibonacciSequence.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/5-CaseChanger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/6-FactorialNumber.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/7-TriangleAreaCalculator.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/8-CardsDealer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/9-SudokuMtrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2/Assignment16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2/Assignment17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2/Assignment18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Assignment19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Assignment20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/ShoppingApplications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/beans/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/beans/Producs.java.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/beans/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/beans/Shopper.java.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/beans/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/beans/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/constants/ApplicationConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/constants/InvoiceDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/constants/ProductTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/constants/UserTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/daoes/StoreDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/daoes/impls/MyStoreDao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/exceptions/InventorytShortageException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/helpers/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/services/InvoiceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/services/ShoppingCartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/services/StoreDBService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/services/impls/MyCartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/services/impls/MyDBService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/services/impls/MyInvoiceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/CartLoadingStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/InvoicingStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/StoreDBStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/impls/MyInvoiceGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/impls/MySecondInvoiceGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/impls/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-main/strategies/impls/myCartLoadingStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/CoreJavaAssignmentCaseStudy1/Java-test/ShoppingApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/ExceptionHandling1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/ExceptionHandling2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/ExceptionHandling3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day4/ExceptionHandling4.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20GhSXPJXM5UsqMWfdL7deiYvMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankk.AccountTest" />
+      <module name="SimpleBankingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccountTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47d23251-8e38-4187-a592-a095e62170ff" name="Changes" comment="" />
+      <created>1635676834612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635676834612</updated>
+    </task>
+    <servers />
+  </component>
+</project>
